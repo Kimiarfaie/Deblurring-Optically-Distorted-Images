@@ -1,0 +1,976 @@
+
+Outliers for RMSE:
+Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Defocus_1.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Defocus_1.5.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final10_Defocus_2.png
+Method: Stripformer, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: Stripformer, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: Stripformer, Outlier Image: final14_Defocus_1.png
+Method: Stripformer, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: Stripformer, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: Stripformer, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: Stripformer, Outlier Image: final14_Defocus_1.5.png
+Method: Stripformer, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final14_Defocus_2.png
+Method: Stripformer, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_0.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final10_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: DRBNet, Outlier Image: final14_Defocus_1.5.png
+Method: DRBNet, Outlier Image: final14_Defocus_1.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: DRBNet, Outlier Image: final14_Defocus_2.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final10_Defocus_2.png
+Method: MPRNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: MPRNet, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: MPRNet, Outlier Image: final14_Defocus_1.png
+Method: MPRNet, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: MPRNet, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: MPRNet, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: MPRNet, Outlier Image: final14_Defocus_1.5.png
+Method: MPRNet, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final14_Defocus_2.png
+Method: MPRNet, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Defocus_2.png
+Method: Restormer, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: Restormer, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Spherical_Abberation_0.2.png
+Method: Restormer, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Vertical_Astigmatism_0.5.png
+Method: Restormer, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Defocus_0.5.png
+Method: NAFNet, Outlier Image: final15_Defocus_0.5.png
+Method: NAFNet, Outlier Image: final10_Defocus_2.png
+Method: NAFNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final15_Spherical_Abberation_0.2.png
+Method: NAFNet, Outlier Image: final15_Vertical_Astigmatism_1.png
+Method: NAFNet, Outlier Image: final15_Defocus_1.png
+Method: NAFNet, Outlier Image: final15_Vertical_Astigmatism_1.5.png
+Method: NAFNet, Outlier Image: final15_Spherical_Abberation_0.4.png
+Method: NAFNet, Outlier Image: final15_Vertical_Astigmatism_2.png
+Method: NAFNet, Outlier Image: final15_Defocus_1.5.png
+Method: NAFNet, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final15_Defocus_2.png
+Method: NAFNet, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final10_Spherical_Abberation_0.9.png
+
+Outliers for MSSIM:
+Method: MIMOUNet/Simple, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final22_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final13_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final01_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final15_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_1.5.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Vertical_Astigmatism_2.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final22_Defocus_1.5.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final03_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final03_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final22_Vertical_Astigmatism_2.png
+Method: Stripformer, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final17_Defocus_2.png
+Method: Stripformer, Outlier Image: final22_Defocus_2.png
+Method: Stripformer, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final17_Defocus_1.5.png
+Method: Stripformer, Outlier Image: final13_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final15_Defocus_2.png
+Method: Stripformer, Outlier Image: final17_Vertical_Astigmatism_2.png
+Method: Stripformer, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final01_Defocus_2.png
+Method: Stripformer, Outlier Image: final10_Defocus_2.png
+Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.4.png
+Method: Stripformer, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final03_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final17_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - small, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - small, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final17_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final01_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final17_Defocus_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final17_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final17_Defocus_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final17_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final01_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final17_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final17_Defocus_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final17_Defocus_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final17_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Defocus_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Defocus_0.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final17_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Defocus_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Vertical_Astigmatism_1.5.png
+Method: DRBNet, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: DRBNet, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: DRBNet, Outlier Image: final14_Defocus_1.png
+Method: DRBNet, Outlier Image: final14_Defocus_0.5.png
+Method: DRBNet, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: DRBNet, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: DRBNet, Outlier Image: final17_Defocus_2.png
+Method: DRBNet, Outlier Image: final17_Defocus_1.5.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: MPRNet, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final22_Defocus_2.png
+Method: MPRNet, Outlier Image: final17_Defocus_2.png
+Method: MPRNet, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final13_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final17_Defocus_1.5.png
+Method: MPRNet, Outlier Image: final01_Defocus_2.png
+Method: MPRNet, Outlier Image: final15_Defocus_2.png
+Method: MPRNet, Outlier Image: final17_Vertical_Astigmatism_2.png
+Method: MPRNet, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final01_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final03_Defocus_2.png
+Method: MPRNet, Outlier Image: final17_Spherical_Abberation_0.4.png
+Method: Restormer, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Vertical_Astigmatism_0.5.png
+Method: Restormer, Outlier Image: final15_Defocus_0.5.png
+Method: Restormer, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: Restormer, Outlier Image: final15_Defocus_2.png
+Method: Restormer, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final22_Defocus_2.png
+Method: NAFNet, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final01_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final16_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final01_Defocus_2.png
+Method: NAFNet, Outlier Image: final06_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final03_Defocus_2.png
+
+Outliers for LPC:
+Method: MIMOUNet/Simple, Outlier Image: final18_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final18_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final12_Defocus_2.png
+Method: Stripformer, Outlier Image: final18_Defocus_2.png
+Method: Stripformer, Outlier Image: final09_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final09_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Defocus_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Defocus_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final22_Defocus_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Defocus_0.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final18_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final04_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Defocus_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Defocus_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final22_Defocus_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Defocus_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Defocus_0.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Defocus_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: DRBNet, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final12_Defocus_2.png
+Method: DRBNet, Outlier Image: final12_Defocus_1.5.png
+Method: DRBNet, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: DRBNet, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: DRBNet, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: DRBNet, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: DRBNet, Outlier Image: final12_Defocus_1.png
+Method: MPRNet, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final09_Defocus_2.png
+Method: Restormer, Outlier Image: final12_Defocus_2.png
+Method: Restormer, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final12_Defocus_1.5.png
+Method: Restormer, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: Restormer, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: Restormer, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: Restormer, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: Restormer, Outlier Image: final12_Defocus_1.png
+Method: Restormer, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: Restormer, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: Restormer, Outlier Image: final12_Defocus_0.5.png
+Method: Restormer, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: Restormer, Outlier Image: final22_Defocus_1.png
+Method: NAFNet, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final22_Defocus_2.png
+Method: NAFNet, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final05_Defocus_2.png
+
+Outliers for FSIM:
+Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final21_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final13_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final01_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final15_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final22_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final19_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_1.5.png
+Method: Stripformer, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final17_Defocus_2.png
+Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final21_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final13_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final15_Defocus_2.png
+Method: Stripformer, Outlier Image: final22_Defocus_2.png
+Method: Stripformer, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final01_Defocus_2.png
+Method: Stripformer, Outlier Image: final10_Defocus_2.png
+Method: Stripformer, Outlier Image: final17_Defocus_1.5.png
+Method: Stripformer, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final09_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final17_Vertical_Astigmatism_2.png
+Method: Stripformer, Outlier Image: final01_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final19_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final03_Defocus_2.png
+Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.4.png
+Method: Stripformer, Outlier Image: final04_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final17_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_0.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final17_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - small, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final17_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final01_Defocus_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Defocus_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Defocus_0.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final17_Defocus_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Defocus_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final23_Defocus_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final09_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: DRBNet, Outlier Image: final14_Defocus_1.png
+Method: DRBNet, Outlier Image: final14_Defocus_0.5.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: DRBNet, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: DRBNet, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final14_Defocus_1.5.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: DRBNet, Outlier Image: final17_Defocus_2.png
+Method: DRBNet, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: DRBNet, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: DRBNet, Outlier Image: final14_Defocus_2.png
+Method: DRBNet, Outlier Image: final22_Defocus_2.png
+Method: DRBNet, Outlier Image: final01_Defocus_2.png
+Method: MPRNet, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final21_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final13_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final17_Defocus_2.png
+Method: MPRNet, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final22_Defocus_2.png
+Method: MPRNet, Outlier Image: final15_Defocus_2.png
+Method: MPRNet, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final01_Defocus_2.png
+Method: MPRNet, Outlier Image: final17_Defocus_1.5.png
+Method: MPRNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final17_Vertical_Astigmatism_2.png
+Method: MPRNet, Outlier Image: final01_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final19_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final09_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Vertical_Astigmatism_0.5.png
+Method: Restormer, Outlier Image: final15_Defocus_0.5.png
+Method: Restormer, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: Restormer, Outlier Image: final15_Defocus_2.png
+Method: Restormer, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Defocus_1.5.png
+Method: Restormer, Outlier Image: final15_Vertical_Astigmatism_2.png
+Method: Restormer, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Spherical_Abberation_0.4.png
+Method: Restormer, Outlier Image: final16_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Spherical_Abberation_0.2.png
+Method: NAFNet, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final16_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final21_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final22_Defocus_2.png
+Method: NAFNet, Outlier Image: final01_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final01_Defocus_2.png
+Method: NAFNet, Outlier Image: final06_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final17_Defocus_2.png
+Method: NAFNet, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final16_Defocus_2.png
+Method: NAFNet, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final05_Spherical_Abberation_0.9.png
+
+Outliers for CPBD:
+Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: MIMOUNet/Simple, Outlier Image: final07_Vertical_Astigmatism_0.5.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_1.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_0.5.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Vertical_Astigmatism_1.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.2.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_0.5.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_1.png
+Method: MPRNet, Outlier Image: final06_Vertical_Astigmatism_0.5.png
+Method: MPRNet, Outlier Image: final17_Defocus_2.png
+Method: MPRNet, Outlier Image: final17_Vertical_Astigmatism_1.png
+Method: MPRNet, Outlier Image: final17_Spherical_Abberation_0.2.png
+Method: MPRNet, Outlier Image: final17_Defocus_0.5.png
+Method: MPRNet, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: MPRNet, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final16_Vertical_Astigmatism_0.5.png
+Method: NAFNet, Outlier Image: final12_Defocus_1.png
+Method: NAFNet, Outlier Image: final12_Defocus_0.5.png
+Method: NAFNet, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: NAFNet, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: NAFNet, Outlier Image: final17_Vertical_Astigmatism_1.5.png
+Method: NAFNet, Outlier Image: final17_Defocus_2.png
+Method: NAFNet, Outlier Image: final17_Spherical_Abberation_0.4.png
+Method: NAFNet, Outlier Image: final17_Defocus_1.5.png
+Method: NAFNet, Outlier Image: final17_Defocus_1.png
+Method: NAFNet, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final17_Vertical_Astigmatism_2.png
+Method: NAFNet, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: NAFNet, Outlier Image: final17_Vertical_Astigmatism_1.png
+Method: NAFNet, Outlier Image: final17_Defocus_0.5.png
+Method: NAFNet, Outlier Image: final17_Spherical_Abberation_0.2.png
+
+Outliers for TVD:
+Method: MIMOUNet/Simple, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final10_Defocus_2.png
+Method: Stripformer, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final10_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final10_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - small, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final10_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final10_Defocus_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Defocus_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Defocus_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Defocus_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: DRBNet, Outlier Image: final14_Defocus_1.5.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: DRBNet, Outlier Image: final14_Defocus_2.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: DRBNet, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final14_Defocus_1.png
+Method: DRBNet, Outlier Image: final10_Defocus_2.png
+Method: DRBNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final10_Defocus_2.png
+Method: MPRNet, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final10_Defocus_2.png
+Method: Restormer, Outlier Image: final15_Vertical_Astigmatism_0.5.png
+Method: Restormer, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final15_Defocus_0.5.png
+Method: Restormer, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final03_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final10_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final10_Defocus_2.png
+Method: NAFNet, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final10_Spherical_Abberation_0.9.png
+
+Outliers for PSNR:
+
+Outliers for BRISQUE:
+Method: LaKDNet/LFDPDD - small, Outlier Image: final19_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final19_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final01_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final01_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final01_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final13_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final01_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final03_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final09_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final03_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final13_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final01_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final09_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final19_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final01_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final15_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final15_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final03_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final15_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final03_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final13_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final15_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final23_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final15_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final03_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final11_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final03_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final03_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final06_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final19_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final13_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final06_Defocus_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final09_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final01_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final13_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final15_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final15_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final15_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final03_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final03_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final03_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final21_Defocus_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final03_Defocus_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final21_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final16_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final02_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - large, Outlier Image: final23_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final16_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final03_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final02_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final02_Defocus_2.png
+Method: DRBNet, Outlier Image: final03_Vertical_Astigmatism_0.5.png
+Method: DRBNet, Outlier Image: final03_Defocus_0.5.png
+Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.9.png
+
+Outliers for JNB:
+Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_0.5.png
+Method: MIMOUNet/Simple, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_2.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_1.5.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_1.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_0.5.png
+Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.2.png
+Method: Stripformer, Outlier Image: final17_Defocus_0.5.png
+Method: Stripformer, Outlier Image: final06_Defocus_0.5.png
+Method: Stripformer, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: Stripformer, Outlier Image: final06_Vertical_Astigmatism_0.5.png
+Method: Stripformer, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: Stripformer, Outlier Image: final12_Defocus_1.5.png
+Method: Stripformer, Outlier Image: final12_Defocus_2.png
+Method: Stripformer, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: Stripformer, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: Stripformer, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: Stripformer, Outlier Image: final12_Defocus_1.png
+Method: Stripformer, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: Stripformer, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: Stripformer, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: Stripformer, Outlier Image: final12_Defocus_0.5.png
+Method: Stripformer, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final04_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: final12_Defocus_0.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final06_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Defocus_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Defocus_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Defocus_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - small, Outlier Image: final12_Defocus_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Defocus_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Defocus_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Defocus_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: LaKDNet/DPDD - large, Outlier Image: final12_Defocus_0.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Defocus_1.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Defocus_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Defocus_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Defocus_0.5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: DRBNet, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: DRBNet, Outlier Image: final12_Defocus_2.png
+Method: DRBNet, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: DRBNet, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: DRBNet, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: DRBNet, Outlier Image: final12_Defocus_1.5.png
+Method: DRBNet, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: DRBNet, Outlier Image: final12_Defocus_1.png
+Method: DRBNet, Outlier Image: final12_Defocus_0.5.png
+Method: DRBNet, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: DRBNet, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: DRBNet, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: DRBNet, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: MPRNet, Outlier Image: final17_Defocus_0.5.png
+Method: MPRNet, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: MPRNet, Outlier Image: final06_Defocus_0.5.png
+Method: MPRNet, Outlier Image: final06_Vertical_Astigmatism_0.5.png
+Method: MPRNet, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: MPRNet, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: MPRNet, Outlier Image: final12_Defocus_2.png
+Method: MPRNet, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: MPRNet, Outlier Image: final12_Defocus_1.5.png
+Method: MPRNet, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: MPRNet, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: MPRNet, Outlier Image: final12_Defocus_1.png
+Method: MPRNet, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: MPRNet, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: MPRNet, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: MPRNet, Outlier Image: final12_Defocus_0.5.png
+Method: Restormer, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: Restormer, Outlier Image: final12_Defocus_2.png
+Method: Restormer, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: Restormer, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: Restormer, Outlier Image: final12_Defocus_1.5.png
+Method: Restormer, Outlier Image: final12_Defocus_1.png
+Method: Restormer, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: Restormer, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: Restormer, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: Restormer, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: Restormer, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: Restormer, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: Restormer, Outlier Image: final12_Defocus_0.5.png
+Method: NAFNet, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: NAFNet, Outlier Image: final17_Defocus_0.5.png
+Method: NAFNet, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: NAFNet, Outlier Image: final12_Defocus_1.5.png
+Method: NAFNet, Outlier Image: final12_Defocus_2.png
+Method: NAFNet, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: NAFNet, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: NAFNet, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: NAFNet, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: NAFNet, Outlier Image: final12_Defocus_1.png
+Method: NAFNet, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: NAFNet, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: NAFNet, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: NAFNet, Outlier Image: final12_Defocus_0.5.png

@@ -1,0 +1,387 @@
+Outlier Summary:
+
+RMSE:
+DRBNet appears 12 times
+LaKDNet/DPDD - large appears 16 times
+LaKDNet/DPDD - small appears 13 times
+LaKDNet/LFDOF - small appears 12 times
+LaKDNet/LFDPDD - small appears 13 times
+MPRNet appears 14 times
+NAFNet appears 14 times
+Restormer appears 8 times
+Stripformer appears 14 times
+final10_Defocus_2.png appears 4 times
+final10_Spherical_Abberation_0.6.png appears 3 times
+final10_Spherical_Abberation_0.9.png appears 9 times
+final11_Spherical_Abberation_0.9.png appears 9 times
+final14_Defocus_0.5.png appears 3 times
+final14_Defocus_1.5.png appears 7 times
+final14_Defocus_1.png appears 7 times
+final14_Defocus_2.png appears 7 times
+final14_Spherical_Abberation_0.2.png appears 7 times
+final14_Spherical_Abberation_0.4.png appears 7 times
+final14_Spherical_Abberation_0.6.png appears 7 times
+final14_Spherical_Abberation_0.9.png appears 7 times
+final14_Vertical_Astigmatism_0.5.png appears 1 times
+final14_Vertical_Astigmatism_1.5.png appears 7 times
+final14_Vertical_Astigmatism_1.png appears 7 times
+final14_Vertical_Astigmatism_2.png appears 7 times
+final15_Defocus_0.5.png appears 2 times
+final15_Defocus_1.5.png appears 1 times
+final15_Defocus_1.png appears 1 times
+final15_Defocus_2.png appears 2 times
+final15_Spherical_Abberation_0.2.png appears 2 times
+final15_Spherical_Abberation_0.4.png appears 1 times
+final15_Spherical_Abberation_0.6.png appears 2 times
+final15_Spherical_Abberation_0.9.png appears 2 times
+final15_Vertical_Astigmatism_0.5.png appears 1 times
+final15_Vertical_Astigmatism_1.5.png appears 1 times
+final15_Vertical_Astigmatism_1.png appears 1 times
+final15_Vertical_Astigmatism_2.png appears 1 times
+
+MSSIM:
+DRBNet appears 13 times
+LaKDNet/DPDD - large appears 24 times
+LaKDNet/DPDD - small appears 17 times
+LaKDNet/LFDOF - small appears 23 times
+LaKDNet/LFDPDD - small appears 17 times
+MPRNet appears 20 times
+NAFNet appears 13 times
+Restormer appears 7 times
+Stripformer appears 21 times
+final01_Defocus_2.png appears 5 times
+final01_Spherical_Abberation_0.6.png appears 2 times
+final01_Spherical_Abberation_0.9.png appears 9 times
+final03_Defocus_2.png appears 3 times
+final03_Spherical_Abberation_0.9.png appears 4 times
+final06_Spherical_Abberation_0.9.png appears 1 times
+final09_Defocus_0.5.png appears 1 times
+final09_Defocus_1.png appears 1 times
+final09_Spherical_Abberation_0.2.png appears 1 times
+final09_Spherical_Abberation_0.9.png appears 1 times
+final09_Vertical_Astigmatism_0.5.png appears 1 times
+final09_Vertical_Astigmatism_1.5.png appears 1 times
+final09_Vertical_Astigmatism_1.png appears 1 times
+final10_Defocus_2.png appears 1 times
+final10_Spherical_Abberation_0.6.png appears 1 times
+final10_Spherical_Abberation_0.9.png appears 3 times
+final11_Spherical_Abberation_0.9.png appears 4 times
+final13_Spherical_Abberation_0.9.png appears 2 times
+final14_Defocus_0.5.png appears 3 times
+final14_Defocus_1.5.png appears 3 times
+final14_Defocus_1.png appears 4 times
+final14_Defocus_2.png appears 3 times
+final14_Spherical_Abberation_0.2.png appears 3 times
+final14_Spherical_Abberation_0.4.png appears 4 times
+final14_Spherical_Abberation_0.6.png appears 3 times
+final14_Spherical_Abberation_0.9.png appears 4 times
+final14_Vertical_Astigmatism_0.5.png appears 3 times
+final14_Vertical_Astigmatism_1.5.png appears 4 times
+final14_Vertical_Astigmatism_1.png appears 3 times
+final14_Vertical_Astigmatism_2.png appears 3 times
+final15_Defocus_0.5.png appears 1 times
+final15_Defocus_2.png appears 3 times
+final15_Spherical_Abberation_0.6.png appears 3 times
+final15_Spherical_Abberation_0.9.png appears 6 times
+final15_Vertical_Astigmatism_0.5.png appears 1 times
+final16_Spherical_Abberation_0.9.png appears 1 times
+final17_Defocus_1.5.png appears 6 times
+final17_Defocus_2.png appears 7 times
+final17_Spherical_Abberation_0.4.png appears 4 times
+final17_Spherical_Abberation_0.6.png appears 7 times
+final17_Spherical_Abberation_0.9.png appears 8 times
+final17_Vertical_Astigmatism_2.png appears 4 times
+final22_Defocus_2.png appears 3 times
+final22_Spherical_Abberation_0.6.png appears 5 times
+final22_Spherical_Abberation_0.9.png appears 9 times
+final23_Defocus_1.png appears 1 times
+final23_Spherical_Abberation_0.2.png appears 1 times
+final23_Spherical_Abberation_0.4.png appears 1 times
+final23_Vertical_Astigmatism_1.5.png appears 1 times
+final23_Vertical_Astigmatism_1.png appears 1 times
+
+LPC:
+DRBNet appears 9 times
+LaKDNet/DPDD - large appears 14 times
+LaKDNet/DPDD - small appears 16 times
+LaKDNet/LFDOF - small appears 6 times
+LaKDNet/LFDPDD - small appears 7 times
+MPRNet appears 2 times
+NAFNet appears 5 times
+Restormer appears 13 times
+Stripformer appears 6 times
+final04_Spherical_Abberation_0.9.png appears 1 times
+final05_Defocus_2.png appears 1 times
+final09_Defocus_0.5.png appears 1 times
+final09_Defocus_2.png appears 2 times
+final09_Spherical_Abberation_0.2.png appears 1 times
+final09_Spherical_Abberation_0.9.png appears 1 times
+final09_Vertical_Astigmatism_1.png appears 1 times
+final12_Defocus_0.5.png appears 3 times
+final12_Defocus_1.5.png appears 5 times
+final12_Defocus_1.png appears 6 times
+final12_Defocus_2.png appears 6 times
+final12_Spherical_Abberation_0.2.png appears 3 times
+final12_Spherical_Abberation_0.4.png appears 4 times
+final12_Spherical_Abberation_0.6.png appears 5 times
+final12_Spherical_Abberation_0.9.png appears 8 times
+final12_Vertical_Astigmatism_0.5.png appears 4 times
+final12_Vertical_Astigmatism_1.5.png appears 5 times
+final12_Vertical_Astigmatism_1.png appears 3 times
+final12_Vertical_Astigmatism_2.png appears 5 times
+final14_Spherical_Abberation_0.9.png appears 1 times
+final18_Defocus_2.png appears 1 times
+final18_Spherical_Abberation_0.9.png appears 1 times
+final22_Defocus_1.png appears 4 times
+final22_Defocus_2.png appears 1 times
+final22_Spherical_Abberation_0.9.png appears 5 times
+
+FSIM:
+DRBNet appears 19 times
+LaKDNet/DPDD - large appears 20 times
+LaKDNet/DPDD - small appears 19 times
+LaKDNet/LFDOF - small appears 25 times
+LaKDNet/LFDPDD - small appears 18 times
+MPRNet appears 21 times
+NAFNet appears 18 times
+Restormer appears 12 times
+Stripformer appears 26 times
+final01_Defocus_2.png appears 5 times
+final01_Spherical_Abberation_0.6.png appears 3 times
+final01_Spherical_Abberation_0.9.png appears 9 times
+final03_Defocus_2.png appears 1 times
+final03_Spherical_Abberation_0.9.png appears 6 times
+final04_Spherical_Abberation_0.9.png appears 1 times
+final05_Spherical_Abberation_0.9.png appears 1 times
+final06_Spherical_Abberation_0.9.png appears 1 times
+final09_Defocus_0.5.png appears 1 times
+final09_Defocus_1.png appears 1 times
+final09_Spherical_Abberation_0.2.png appears 1 times
+final09_Spherical_Abberation_0.4.png appears 1 times
+final09_Spherical_Abberation_0.9.png appears 3 times
+final09_Vertical_Astigmatism_0.5.png appears 1 times
+final09_Vertical_Astigmatism_1.5.png appears 1 times
+final09_Vertical_Astigmatism_1.png appears 1 times
+final09_Vertical_Astigmatism_2.png appears 1 times
+final10_Defocus_2.png appears 1 times
+final10_Spherical_Abberation_0.6.png appears 1 times
+final10_Spherical_Abberation_0.9.png appears 4 times
+final11_Spherical_Abberation_0.9.png appears 4 times
+final13_Spherical_Abberation_0.9.png appears 2 times
+final14_Defocus_0.5.png appears 4 times
+final14_Defocus_1.5.png appears 4 times
+final14_Defocus_1.png appears 4 times
+final14_Defocus_2.png appears 4 times
+final14_Spherical_Abberation_0.2.png appears 4 times
+final14_Spherical_Abberation_0.4.png appears 4 times
+final14_Spherical_Abberation_0.6.png appears 4 times
+final14_Spherical_Abberation_0.9.png appears 4 times
+final14_Vertical_Astigmatism_0.5.png appears 4 times
+final14_Vertical_Astigmatism_1.5.png appears 4 times
+final14_Vertical_Astigmatism_1.png appears 4 times
+final14_Vertical_Astigmatism_2.png appears 4 times
+final15_Defocus_0.5.png appears 1 times
+final15_Defocus_1.5.png appears 1 times
+final15_Defocus_2.png appears 3 times
+final15_Spherical_Abberation_0.2.png appears 1 times
+final15_Spherical_Abberation_0.4.png appears 1 times
+final15_Spherical_Abberation_0.6.png appears 3 times
+final15_Spherical_Abberation_0.9.png appears 8 times
+final15_Vertical_Astigmatism_0.5.png appears 1 times
+final15_Vertical_Astigmatism_2.png appears 1 times
+final16_Defocus_2.png appears 1 times
+final16_Spherical_Abberation_0.9.png appears 2 times
+final17_Defocus_1.5.png appears 2 times
+final17_Defocus_2.png appears 8 times
+final17_Spherical_Abberation_0.4.png appears 1 times
+final17_Spherical_Abberation_0.6.png appears 8 times
+final17_Spherical_Abberation_0.9.png appears 8 times
+final17_Vertical_Astigmatism_2.png appears 2 times
+final19_Spherical_Abberation_0.9.png appears 2 times
+final21_Spherical_Abberation_0.9.png appears 3 times
+final22_Defocus_2.png appears 4 times
+final22_Spherical_Abberation_0.6.png appears 3 times
+final22_Spherical_Abberation_0.9.png appears 9 times
+final23_Defocus_1.5.png appears 1 times
+final23_Defocus_1.png appears 1 times
+final23_Spherical_Abberation_0.2.png appears 1 times
+final23_Spherical_Abberation_0.4.png appears 1 times
+final23_Vertical_Astigmatism_1.5.png appears 1 times
+final23_Vertical_Astigmatism_1.png appears 1 times
+final23_Vertical_Astigmatism_2.png appears 1 times
+
+CPBD:
+LaKDNet/LFDPDD - small appears 20 times
+MPRNet appears 7 times
+NAFNet appears 17 times
+Stripformer appears 1 times
+final06_Vertical_Astigmatism_0.5.png appears 1 times
+final12_Defocus_0.5.png appears 2 times
+final12_Defocus_1.5.png appears 1 times
+final12_Defocus_1.png appears 2 times
+final12_Defocus_2.png appears 1 times
+final12_Spherical_Abberation_0.2.png appears 2 times
+final12_Spherical_Abberation_0.4.png appears 1 times
+final12_Spherical_Abberation_0.6.png appears 1 times
+final12_Vertical_Astigmatism_0.5.png appears 1 times
+final12_Vertical_Astigmatism_1.5.png appears 1 times
+final12_Vertical_Astigmatism_1.png appears 2 times
+final12_Vertical_Astigmatism_2.png appears 1 times
+final14_Defocus_1.5.png appears 1 times
+final14_Defocus_1.png appears 1 times
+final14_Defocus_2.png appears 1 times
+final14_Spherical_Abberation_0.4.png appears 1 times
+final14_Spherical_Abberation_0.6.png appears 1 times
+final14_Spherical_Abberation_0.9.png appears 1 times
+final14_Vertical_Astigmatism_1.5.png appears 1 times
+final14_Vertical_Astigmatism_1.png appears 1 times
+final14_Vertical_Astigmatism_2.png appears 1 times
+final16_Vertical_Astigmatism_0.5.png appears 1 times
+final17_Defocus_0.5.png appears 2 times
+final17_Defocus_1.5.png appears 1 times
+final17_Defocus_1.png appears 1 times
+final17_Defocus_2.png appears 2 times
+final17_Spherical_Abberation_0.2.png appears 2 times
+final17_Spherical_Abberation_0.4.png appears 1 times
+final17_Spherical_Abberation_0.6.png appears 3 times
+final17_Spherical_Abberation_0.9.png appears 1 times
+final17_Vertical_Astigmatism_0.5.png appears 2 times
+final17_Vertical_Astigmatism_1.5.png appears 1 times
+final17_Vertical_Astigmatism_1.png appears 2 times
+final17_Vertical_Astigmatism_2.png appears 1 times
+
+TVD:
+DRBNet appears 16 times
+LaKDNet/DPDD - large appears 14 times
+LaKDNet/DPDD - small appears 13 times
+LaKDNet/LFDOF - small appears 14 times
+LaKDNet/LFDPDD - small appears 14 times
+MPRNet appears 6 times
+NAFNet appears 6 times
+Restormer appears 5 times
+Stripformer appears 6 times
+final01_Spherical_Abberation_0.9.png appears 4 times
+final03_Spherical_Abberation_0.9.png appears 4 times
+final10_Defocus_2.png appears 9 times
+final10_Spherical_Abberation_0.6.png appears 7 times
+final10_Spherical_Abberation_0.9.png appears 9 times
+final11_Spherical_Abberation_0.9.png appears 9 times
+final14_Defocus_1.5.png appears 5 times
+final14_Defocus_1.png appears 5 times
+final14_Defocus_2.png appears 5 times
+final14_Spherical_Abberation_0.2.png appears 5 times
+final14_Spherical_Abberation_0.4.png appears 5 times
+final14_Spherical_Abberation_0.6.png appears 5 times
+final14_Spherical_Abberation_0.9.png appears 5 times
+final14_Vertical_Astigmatism_1.5.png appears 5 times
+final14_Vertical_Astigmatism_1.png appears 5 times
+final14_Vertical_Astigmatism_2.png appears 5 times
+final15_Defocus_0.5.png appears 1 times
+final15_Vertical_Astigmatism_0.5.png appears 1 times
+
+BRISQUE:
+DRBNet appears 3 times
+LaKDNet/DPDD - large appears 8 times
+LaKDNet/DPDD - small appears 1 times
+LaKDNet/LFDOF - small appears 3 times
+LaKDNet/LFDPDD - small appears 61 times
+final01_Defocus_1.5.png appears 1 times
+final01_Defocus_1.png appears 1 times
+final01_Defocus_2.png appears 1 times
+final01_Spherical_Abberation_0.4.png appears 1 times
+final01_Spherical_Abberation_0.6.png appears 1 times
+final01_Vertical_Astigmatism_1.5.png appears 1 times
+final01_Vertical_Astigmatism_2.png appears 1 times
+final02_Defocus_2.png appears 1 times
+final02_Spherical_Abberation_0.4.png appears 1 times
+final02_Spherical_Abberation_0.6.png appears 1 times
+final03_Defocus_0.5.png appears 3 times
+final03_Defocus_1.5.png appears 1 times
+final03_Defocus_1.png appears 1 times
+final03_Spherical_Abberation_0.2.png appears 1 times
+final03_Spherical_Abberation_0.4.png appears 1 times
+final03_Spherical_Abberation_0.6.png appears 1 times
+final03_Vertical_Astigmatism_0.5.png appears 4 times
+final03_Vertical_Astigmatism_1.5.png appears 1 times
+final03_Vertical_Astigmatism_2.png appears 1 times
+final06_Defocus_0.5.png appears 1 times
+final06_Vertical_Astigmatism_0.5.png appears 1 times
+final09_Defocus_0.5.png appears 1 times
+final09_Spherical_Abberation_0.2.png appears 1 times
+final09_Vertical_Astigmatism_0.5.png appears 1 times
+final11_Defocus_0.5.png appears 1 times
+final11_Defocus_1.5.png appears 1 times
+final11_Defocus_1.png appears 1 times
+final11_Defocus_2.png appears 1 times
+final11_Spherical_Abberation_0.2.png appears 1 times
+final11_Spherical_Abberation_0.4.png appears 1 times
+final11_Spherical_Abberation_0.6.png appears 1 times
+final11_Vertical_Astigmatism_0.5.png appears 1 times
+final11_Vertical_Astigmatism_1.5.png appears 1 times
+final11_Vertical_Astigmatism_1.png appears 1 times
+final11_Vertical_Astigmatism_2.png appears 1 times
+final13_Defocus_0.5.png appears 1 times
+final13_Spherical_Abberation_0.2.png appears 1 times
+final13_Vertical_Astigmatism_0.5.png appears 1 times
+final13_Vertical_Astigmatism_1.5.png appears 1 times
+final13_Vertical_Astigmatism_1.png appears 1 times
+final14_Spherical_Abberation_0.9.png appears 1 times
+final15_Defocus_1.5.png appears 1 times
+final15_Defocus_1.png appears 1 times
+final15_Defocus_2.png appears 1 times
+final15_Spherical_Abberation_0.4.png appears 1 times
+final15_Spherical_Abberation_0.6.png appears 1 times
+final15_Vertical_Astigmatism_0.5.png appears 1 times
+final15_Vertical_Astigmatism_1.5.png appears 1 times
+final15_Vertical_Astigmatism_2.png appears 1 times
+final16_Defocus_2.png appears 1 times
+final16_Spherical_Abberation_0.9.png appears 1 times
+final19_Defocus_0.5.png appears 1 times
+final19_Spherical_Abberation_0.2.png appears 1 times
+final19_Vertical_Astigmatism_0.5.png appears 1 times
+final19_Vertical_Astigmatism_1.png appears 1 times
+final21_Defocus_0.5.png appears 1 times
+final21_Vertical_Astigmatism_0.5.png appears 1 times
+final22_Defocus_0.5.png appears 1 times
+final22_Defocus_1.5.png appears 1 times
+final22_Defocus_1.png appears 1 times
+final22_Defocus_2.png appears 1 times
+final22_Spherical_Abberation_0.2.png appears 1 times
+final22_Spherical_Abberation_0.4.png appears 1 times
+final22_Spherical_Abberation_0.6.png appears 1 times
+final22_Spherical_Abberation_0.9.png appears 1 times
+final22_Vertical_Astigmatism_0.5.png appears 1 times
+final22_Vertical_Astigmatism_1.5.png appears 1 times
+final22_Vertical_Astigmatism_1.png appears 1 times
+final22_Vertical_Astigmatism_2.png appears 1 times
+final23_Spherical_Abberation_0.9.png appears 1 times
+final23_Vertical_Astigmatism_0.5.png appears 1 times
+
+JNB:
+DRBNet appears 13 times
+LaKDNet/DPDD - large appears 12 times
+LaKDNet/DPDD - small appears 12 times
+LaKDNet/LFDOF - small appears 12 times
+LaKDNet/LFDPDD - small appears 13 times
+MPRNet appears 16 times
+NAFNet appears 14 times
+Restormer appears 13 times
+Stripformer appears 17 times
+final04_Spherical_Abberation_0.9.png appears 1 times
+final06_Defocus_0.5.png appears 2 times
+final06_Vertical_Astigmatism_0.5.png appears 3 times
+final12_Defocus_0.5.png appears 9 times
+final12_Defocus_1.5.png appears 9 times
+final12_Defocus_1.png appears 9 times
+final12_Defocus_2.png appears 9 times
+final12_Spherical_Abberation_0.2.png appears 9 times
+final12_Spherical_Abberation_0.4.png appears 9 times
+final12_Spherical_Abberation_0.6.png appears 9 times
+final12_Spherical_Abberation_0.9.png appears 8 times
+final12_Vertical_Astigmatism_0.5.png appears 9 times
+final12_Vertical_Astigmatism_1.5.png appears 9 times
+final12_Vertical_Astigmatism_1.png appears 9 times
+final12_Vertical_Astigmatism_2.png appears 9 times
+final17_Defocus_0.5.png appears 3 times
+final17_Spherical_Abberation_0.2.png appears 1 times
+final17_Vertical_Astigmatism_0.5.png appears 5 times

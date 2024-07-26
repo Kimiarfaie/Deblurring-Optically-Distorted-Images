@@ -1,0 +1,10 @@
+Summary of Image Quality Metrics:
+Mean PSNR: 23.00, Max PSNR: 34.57
+Mean RMSE: 0.0823, Max RMSE: 0.2688
+Mean BRISQUE: 47.4492, Max BRISQUE: 68.6570
+Mean CPBD: 0.2321, Max CPBD: 0.7798
+Mean JNB: 4.6062, Max JNB: 15.4392
+Mean FSIM: 0.9485, Max FSIM: 0.9953
+Mean MSSIM: 0.9242, Max MSSIM: 0.9946
+Mean TVD: 0.1858, Max TVD: 0.5925
+Mean lpc: 0.7738, Max lpc: 0.9046

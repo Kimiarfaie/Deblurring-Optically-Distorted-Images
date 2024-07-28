@@ -1,19 +1,19 @@
 
 Outliers for RMSE:
-Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final11_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Spherical_Abberation_0.2.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Vertical_Astigmatism_1.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Defocus_1.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Vertical_Astigmatism_1.5.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Spherical_Abberation_0.4.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Vertical_Astigmatism_2.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Defocus_1.5.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final14_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: JDRL/DPDD, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_0.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_1.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: JDRL/DPDD, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_1.png
 Method: Stripformer, Outlier Image: final10_Spherical_Abberation_0.6.png
 Method: Stripformer, Outlier Image: final10_Defocus_2.png
 Method: Stripformer, Outlier Image: final11_Spherical_Abberation_0.9.png
@@ -132,30 +132,24 @@ Method: NAFNet, Outlier Image: final15_Spherical_Abberation_0.9.png
 Method: NAFNet, Outlier Image: final10_Spherical_Abberation_0.9.png
 
 Outliers for MSSIM:
-Method: MIMOUNet/Simple, Outlier Image: final22_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final15_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final03_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final22_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final22_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final13_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final01_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final11_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final15_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final15_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_1.5.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Vertical_Astigmatism_2.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final22_Defocus_1.5.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final03_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final03_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final22_Vertical_Astigmatism_2.png
+Method: JDRL/DPDD, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_1.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: JDRL/DPDD, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_1.5.png
+Method: JDRL/DPDD, Outlier Image: final17_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final22_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final06_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final17_Defocus_1.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_0.5.png
 Method: Stripformer, Outlier Image: final22_Spherical_Abberation_0.9.png
 Method: Stripformer, Outlier Image: final15_Spherical_Abberation_0.9.png
 Method: Stripformer, Outlier Image: final01_Spherical_Abberation_0.9.png
@@ -313,9 +307,20 @@ Method: NAFNet, Outlier Image: final11_Spherical_Abberation_0.9.png
 Method: NAFNet, Outlier Image: final03_Defocus_2.png
 
 Outliers for LPC:
-Method: MIMOUNet/Simple, Outlier Image: final18_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final18_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final12_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final12_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final12_Defocus_1.5.png
+Method: JDRL/DPDD, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: JDRL/DPDD, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: JDRL/DPDD, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: JDRL/DPDD, Outlier Image: final12_Defocus_1.png
+Method: JDRL/DPDD, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: JDRL/DPDD, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: JDRL/DPDD, Outlier Image: final12_Defocus_0.5.png
+Method: JDRL/DPDD, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: JDRL/DPDD, Outlier Image: final08_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final22_Spherical_Abberation_0.4.png
 Method: Stripformer, Outlier Image: final12_Spherical_Abberation_0.9.png
 Method: Stripformer, Outlier Image: final12_Spherical_Abberation_0.6.png
 Method: Stripformer, Outlier Image: final12_Defocus_2.png
@@ -396,27 +401,26 @@ Method: NAFNet, Outlier Image: final12_Spherical_Abberation_0.9.png
 Method: NAFNet, Outlier Image: final05_Defocus_2.png
 
 Outliers for FSIM:
-Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final22_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final15_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final21_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final13_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final03_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final01_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final15_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final15_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final22_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final11_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final22_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final19_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_1.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_1.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_1.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_0.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_0.5.png
+Method: JDRL/DPDD, Outlier Image: final01_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final22_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final17_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final15_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final17_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final18_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final18_Spherical_Abberation_0.6.png
 Method: Stripformer, Outlier Image: final15_Spherical_Abberation_0.9.png
 Method: Stripformer, Outlier Image: final22_Spherical_Abberation_0.9.png
 Method: Stripformer, Outlier Image: final01_Spherical_Abberation_0.9.png
@@ -597,18 +601,13 @@ Method: NAFNet, Outlier Image: final17_Spherical_Abberation_0.6.png
 Method: NAFNet, Outlier Image: final05_Spherical_Abberation_0.9.png
 
 Outliers for CPBD:
-Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.2.png
-Method: MIMOUNet/Simple, Outlier Image: final07_Vertical_Astigmatism_0.5.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_1.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_0.5.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_0.5.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Vertical_Astigmatism_1.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Spherical_Abberation_0.2.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_0.5.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: JDRL/DPDD, Outlier Image: final17_Vertical_Astigmatism_2.png
+Method: JDRL/DPDD, Outlier Image: final17_Defocus_1.png
+Method: JDRL/DPDD, Outlier Image: final17_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final17_Vertical_Astigmatism_1.png
+Method: JDRL/DPDD, Outlier Image: final17_Defocus_0.5.png
+Method: JDRL/DPDD, Outlier Image: final17_Spherical_Abberation_0.2.png
+Method: JDRL/DPDD, Outlier Image: final17_Vertical_Astigmatism_0.5.png
 Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.6.png
 Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_2.png
 Method: LaKDNet/LFDPDD - small, Outlier Image: final14_Defocus_1.5.png
@@ -656,12 +655,18 @@ Method: NAFNet, Outlier Image: final17_Defocus_0.5.png
 Method: NAFNet, Outlier Image: final17_Spherical_Abberation_0.2.png
 
 Outliers for TVD:
-Method: MIMOUNet/Simple, Outlier Image: final03_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final11_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final01_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final10_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final10_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_1.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_2.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.4.png
+Method: JDRL/DPDD, Outlier Image: final11_Spherical_Abberation_0.9.png
+Method: JDRL/DPDD, Outlier Image: final14_Spherical_Abberation_0.2.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_1.5.png
+Method: JDRL/DPDD, Outlier Image: final14_Vertical_Astigmatism_1.png
+Method: JDRL/DPDD, Outlier Image: final14_Defocus_1.png
+Method: JDRL/DPDD, Outlier Image: final10_Spherical_Abberation_0.9.png
 Method: Stripformer, Outlier Image: final03_Spherical_Abberation_0.9.png
 Method: Stripformer, Outlier Image: final01_Spherical_Abberation_0.9.png
 Method: Stripformer, Outlier Image: final11_Spherical_Abberation_0.9.png
@@ -760,6 +765,9 @@ Method: NAFNet, Outlier Image: final10_Spherical_Abberation_0.9.png
 Outliers for PSNR:
 
 Outliers for BRISQUE:
+Method: JDRL/DPDD, Outlier Image: final04_Vertical_Astigmatism_0.5.png
+Method: JDRL/DPDD, Outlier Image: final03_Vertical_Astigmatism_0.5.png
+Method: JDRL/DPDD, Outlier Image: final16_Spherical_Abberation_0.9.png
 Method: LaKDNet/LFDPDD - small, Outlier Image: final19_Vertical_Astigmatism_0.5.png
 Method: LaKDNet/LFDPDD - small, Outlier Image: final19_Defocus_0.5.png
 Method: LaKDNet/LFDPDD - small, Outlier Image: final22_Spherical_Abberation_0.6.png
@@ -838,20 +846,18 @@ Method: DRBNet, Outlier Image: final03_Defocus_0.5.png
 Method: DRBNet, Outlier Image: final14_Spherical_Abberation_0.9.png
 
 Outliers for JNB:
-Method: MIMOUNet/Simple, Outlier Image: final17_Defocus_0.5.png
-Method: MIMOUNet/Simple, Outlier Image: final17_Vertical_Astigmatism_0.5.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_2.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.6.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.9.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_1.5.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_2.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.4.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_1.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_1.5.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Spherical_Abberation_0.2.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_1.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Defocus_0.5.png
-Method: MIMOUNet/Simple, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: JDRL/DPDD, Outlier Image: final17_Vertical_Astigmatism_0.5.png
+Method: JDRL/DPDD, Outlier Image: final12_Spherical_Abberation_0.6.png
+Method: JDRL/DPDD, Outlier Image: final12_Defocus_2.png
+Method: JDRL/DPDD, Outlier Image: final12_Spherical_Abberation_0.4.png
+Method: JDRL/DPDD, Outlier Image: final12_Vertical_Astigmatism_2.png
+Method: JDRL/DPDD, Outlier Image: final12_Defocus_1.5.png
+Method: JDRL/DPDD, Outlier Image: final12_Vertical_Astigmatism_1.5.png
+Method: JDRL/DPDD, Outlier Image: final12_Defocus_1.png
+Method: JDRL/DPDD, Outlier Image: final12_Vertical_Astigmatism_0.5.png
+Method: JDRL/DPDD, Outlier Image: final12_Spherical_Abberation_0.2.png
+Method: JDRL/DPDD, Outlier Image: final12_Vertical_Astigmatism_1.png
+Method: JDRL/DPDD, Outlier Image: final12_Defocus_0.5.png
 Method: Stripformer, Outlier Image: final17_Spherical_Abberation_0.2.png
 Method: Stripformer, Outlier Image: final17_Defocus_0.5.png
 Method: Stripformer, Outlier Image: final06_Defocus_0.5.png

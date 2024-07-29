@@ -1,0 +1,3 @@
+[submodule "TID2013/clean_noisy_defilter"]
+	path = TID2013/clean_noisy_defilter
+	url = https://github.com/fayolle/clean_noisy_defilter.git

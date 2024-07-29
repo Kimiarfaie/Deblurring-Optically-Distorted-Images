@@ -1,3 +1,6 @@
 [submodule "TID2013/clean_noisy_defilter"]
 	path = TID2013/clean_noisy_defilter
 	url = https://github.com/fayolle/clean_noisy_defilter.git
+[submodule "TID2013/deblur-pmp"]
+	path = TID2013/deblur-pmp
+	url = https://github.com/FWen/deblur-pmp.git

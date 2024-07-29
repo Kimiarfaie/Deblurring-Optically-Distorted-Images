@@ -1,0 +1,272 @@
+
+Outliers for RMSE:
+Method: JDRL/DPDD, Outlier Image: i13_08_5.png
+Method: JDRL/DPDD, Outlier Image: i08_08_5.png
+Method: JDRL/DPDD, Outlier Image: i25_08_2.png
+Method: JDRL/DPDD, Outlier Image: i25_08_3.png
+Method: JDRL/DPDD, Outlier Image: i25_08_4.png
+Method: JDRL/DPDD, Outlier Image: i25_08_5.png
+Method: Stripformer, Outlier Image: i25_08_3.png
+Method: Stripformer, Outlier Image: i25_08_4.png
+Method: Stripformer, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i25_08_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i08_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i25_08_3.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i25_08_4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: i08_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_3.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_4.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i13_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i08_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_3.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i25_08_2.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i08_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i25_08_3.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i25_08_4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i25_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i08_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_2.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_3.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_4.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_5.png
+Method: MPRNet, Outlier Image: i25_08_3.png
+Method: MPRNet, Outlier Image: i25_08_4.png
+Method: MPRNet, Outlier Image: i25_08_5.png
+Method: MPRNet, Outlier Image: i25_08_2.png
+Method: MPRNet, Outlier Image: i25_08_1.png
+Method: Restormer - TID2013, Outlier Image: i13_08_5.png
+Method: Restormer - TID2013, Outlier Image: i08_08_5.png
+Method: Restormer - TID2013, Outlier Image: i25_08_2.png
+Method: Restormer - TID2013, Outlier Image: i25_08_3.png
+Method: Restormer - TID2013, Outlier Image: i25_08_4.png
+Method: Restormer - TID2013, Outlier Image: i25_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i25_08_3.png
+Method: NAFNet - TID2013, Outlier Image: i25_08_4.png
+Method: NAFNet - TID2013, Outlier Image: i25_08_5.png
+
+Outliers for MSSIM:
+Method: JDRL/DPDD, Outlier Image: i25_08_5.png
+Method: JDRL/DPDD, Outlier Image: i13_08_5.png
+Method: JDRL/DPDD, Outlier Image: i06_08_5.png
+Method: Stripformer, Outlier Image: i13_08_5.png
+Method: Stripformer, Outlier Image: i06_08_5.png
+Method: Stripformer, Outlier Image: i01_08_5.png
+Method: Stripformer, Outlier Image: i25_08_5.png
+Method: Stripformer, Outlier Image: i19_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i13_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i13_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i06_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i13_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i06_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i01_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i19_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i06_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i13_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i08_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i13_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i06_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i19_08_5.png
+Method: MPRNet, Outlier Image: i25_08_1.png
+Method: MPRNet, Outlier Image: i25_08_2.png
+Method: Restormer - TID2013, Outlier Image: i25_08_5.png
+Method: Restormer - TID2013, Outlier Image: i13_08_5.png
+Method: Restormer - TID2013, Outlier Image: i06_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i25_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i13_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i06_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i01_08_5.png
+
+Outliers for LPC:
+Method: JDRL/DPDD, Outlier Image: i16_08_4.png
+Method: JDRL/DPDD, Outlier Image: i08_08_4.png
+Method: JDRL/DPDD, Outlier Image: i24_08_4.png
+Method: JDRL/DPDD, Outlier Image: i13_08_4.png
+Method: JDRL/DPDD, Outlier Image: i06_08_4.png
+Method: Stripformer, Outlier Image: i17_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i16_08_4.png
+Method: LaKDNet/DPDD - small, Outlier Image: i13_08_4.png
+Method: LaKDNet/DPDD - small, Outlier Image: i11_08_4.png
+Method: LaKDNet/DPDD - small, Outlier Image: i05_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i04_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i13_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i24_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i11_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i08_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i04_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i17_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i16_08_4.png
+Method: Restormer - TID2013, Outlier Image: i01_08_4.png
+Method: Restormer - TID2013, Outlier Image: i24_08_4.png
+Method: Restormer - TID2013, Outlier Image: i02_08_4.png
+Method: NAFNet - TID2013, Outlier Image: i17_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i16_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i10_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i11_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i04_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i06_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i13_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i21_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i24_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i02_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i12_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i15_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i18_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i07_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i23_08_5.png
+
+Outliers for FSIM:
+Method: JDRL/DPDD, Outlier Image: i25_08_5.png
+Method: Stripformer, Outlier Image: i13_08_5.png
+Method: Stripformer, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i19_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i08_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i08_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i01_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i19_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i08_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i21_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i06_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i05_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i07_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i13_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i14_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i11_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i13_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i19_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i08_08_5.png
+Method: MPRNet, Outlier Image: i25_08_1.png
+Method: MPRNet, Outlier Image: i25_08_2.png
+Method: Restormer - TID2013, Outlier Image: i25_08_5.png
+Method: Restormer - TID2013, Outlier Image: i19_08_5.png
+Method: Restormer - TID2013, Outlier Image: i13_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i25_08_5.png
+
+Outliers for CPBD:
+Method: LaKDNet/LFDPDD - small, Outlier Image: i08_08_4.png
+
+Outliers for TVD:
+Method: JDRL/DPDD, Outlier Image: i05_08_5.png
+Method: JDRL/DPDD, Outlier Image: i25_08_2.png
+Method: JDRL/DPDD, Outlier Image: i13_08_4.png
+Method: JDRL/DPDD, Outlier Image: i08_08_5.png
+Method: JDRL/DPDD, Outlier Image: i13_08_5.png
+Method: JDRL/DPDD, Outlier Image: i25_08_3.png
+Method: JDRL/DPDD, Outlier Image: i25_08_4.png
+Method: JDRL/DPDD, Outlier Image: i25_08_5.png
+Method: Stripformer, Outlier Image: i13_08_5.png
+Method: Stripformer, Outlier Image: i25_08_3.png
+Method: Stripformer, Outlier Image: i25_08_4.png
+Method: Stripformer, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i05_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i13_08_4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i08_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i25_08_3.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i13_08_5.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i25_08_4.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i13_08_4.png
+Method: LaKDNet/DPDD - small, Outlier Image: i05_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_1.png
+Method: LaKDNet/DPDD - small, Outlier Image: i08_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_2.png
+Method: LaKDNet/DPDD - small, Outlier Image: i13_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_3.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_4.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i13_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i05_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_2.png
+Method: LaKDNet/DPDD - large, Outlier Image: i13_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i08_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_3.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i19_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i05_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i25_08_3.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i13_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i08_08_5.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i25_08_4.png
+Method: LaKDNet/LFDOF - small, Outlier Image: i25_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i08_08_4.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_2.png
+Method: DRBNet - TID2013, Outlier Image: i13_08_4.png
+Method: DRBNet - TID2013, Outlier Image: i05_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i08_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i13_08_5.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_3.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_4.png
+Method: DRBNet - TID2013, Outlier Image: i25_08_5.png
+Method: MPRNet, Outlier Image: i25_08_3.png
+Method: MPRNet, Outlier Image: i25_08_4.png
+Method: MPRNet, Outlier Image: i25_08_5.png
+Method: MPRNet, Outlier Image: i25_08_2.png
+Method: MPRNet, Outlier Image: i25_08_1.png
+Method: Restormer - TID2013, Outlier Image: i05_08_5.png
+Method: Restormer - TID2013, Outlier Image: i13_08_4.png
+Method: Restormer - TID2013, Outlier Image: i08_08_5.png
+Method: Restormer - TID2013, Outlier Image: i13_08_5.png
+Method: Restormer - TID2013, Outlier Image: i25_08_2.png
+Method: Restormer - TID2013, Outlier Image: i25_08_3.png
+Method: Restormer - TID2013, Outlier Image: i25_08_4.png
+Method: Restormer - TID2013, Outlier Image: i25_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i13_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i08_08_5.png
+Method: NAFNet - TID2013, Outlier Image: i25_08_3.png
+Method: NAFNet - TID2013, Outlier Image: i25_08_4.png
+Method: NAFNet - TID2013, Outlier Image: i25_08_5.png
+
+Outliers for PSNR:
+Method: JDRL/DPDD, Outlier Image: i25_08_5.png
+Method: JDRL/DPDD, Outlier Image: i25_08_4.png
+Method: JDRL/DPDD, Outlier Image: i25_08_3.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_5.png
+Method: LaKDNet/DPDD - small, Outlier Image: i25_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_5.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_4.png
+Method: LaKDNet/DPDD - large, Outlier Image: i25_08_3.png
+Method: MPRNet, Outlier Image: i25_08_1.png
+Method: Restormer - TID2013, Outlier Image: i25_08_5.png
+Method: Restormer - TID2013, Outlier Image: i25_08_4.png
+Method: Restormer - TID2013, Outlier Image: i25_08_3.png
+
+Outliers for BRISQUE:
+Method: LaKDNet/LFDPDD - small, Outlier Image: i02_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i02_08_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i04_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i21_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i17_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i04_08_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i14_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i22_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i01_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i11_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i12_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i02_08_3.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i17_08_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i22_08_2.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i15_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i13_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i18_08_1.png
+Method: LaKDNet/LFDPDD - small, Outlier Image: i16_08_1.png
+Method: LaKDNet/DPDD - large, Outlier Image: i04_08_1.png
+
+Outliers for JNB:
+Method: MPRNet, Outlier Image: i25_08_1.png

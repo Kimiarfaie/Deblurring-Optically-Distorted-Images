@@ -23,16 +23,11 @@ opts.xk_iter = 5;  % the iterations
 opts.k_thresh = 20;
 opts.gamma_correct = 1.0;
 
-% Ensure the output directory exists
-if ~exist(outputDir, 'dir')
-    mkdir(outputDir);
-end
-
 % Loop over each image, process it, and save the output
 %for i = 1:numImages
 %    for j = 1:numel(aberrationLevels)
 
-for i = 1
+for i = 1:numImages
     % Loop over all distortion types
     distortionFields = fieldnames(distortions);
     for j = 1:numel(distortionFields)
@@ -44,10 +39,11 @@ for i = 1
             for k = 1:length(kernel_sizes)
                 % Construct the filename
                 % filename = sprintf('i%02d_%s_%s.png', i, aberrationCode, aberrationLevels{j});
-                filename = sprintf('final%02d_%s_%s.png', i, distortionType, levels{k});
+                filename = sprintf('final%02d_%s_%s.png', i, distortionType, levels{l});
                 % Full path to the image file
                 inputFile = fullfile(inputDir, filename);
                 % Read the image
+                disp(['========================== ',filename,' =========================='])
                 y = im2double(imread(inputFile));
                 yg = im2double(rgb2gray(y));
     

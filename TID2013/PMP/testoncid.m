@@ -2,7 +2,7 @@ clear; close all; clc;
 
 addpath(genpath('cho_code'));
 inputDir = '/Users/kimiaarfaie/Desktop/Internship/Internship/Optical Aberration Dataset/Distorted Images';
-outputDir = '/Users/kimiaarfaie/Desktop/Internship/Optical Aberration Dataset/PMP/Deblurred Images/';
+outputDir = '/Users/kimiaarfaie/Desktop/Internship/Optical Aberration Dataset/PMP/NewKernelSizes';
 
 % CID
 distortions = struct();
@@ -20,7 +20,7 @@ opts.k_thresh = 20;
 opts.gamma_correct = 1.0;
 
 % Loop over each image, process it, and save the output
-for i = []
+for i = 
     % Loop over all distortion types
     distortionFields = fieldnames(distortions);
     for j = 1:numel(distortionFields)

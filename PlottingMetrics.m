@@ -3,8 +3,8 @@
 close all; clear; clc;
 
 % Reference
-referencefolder = 'CID-OA/ReferenceVSBlurred';
-% referencefolder = 'TID2013/ReferenceVSBlurred - TID2013';
+% referencefolder = 'CID-OA/ReferenceVSBlurred';
+referencefolder = 'TID2013/ReferenceVSBlurred';
 
 % List of file names and metric names
 files = {'rmseValues.mat', 'MSSIMValues.mat', 'lpcValues.mat', 'FSIMValues.mat', 'CPBDValues.mat', ...
@@ -25,8 +25,8 @@ end
 
 % Outputs
 % Reference
-folder = 'CID-OA/JDRL/DPDD';
-% folder = 'TID2013/JDRL/DPDD';
+% folder = 'CID-OA/JDRL/DPDD';
+folder = 'TID2013/PMP/Metrics/Kernelsize_25';
 
 
 % Preallocate array to store averages

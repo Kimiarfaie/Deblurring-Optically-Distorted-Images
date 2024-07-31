@@ -33,25 +33,25 @@ for iter = 1:opts.xk_iter
   k(k<0) = 0;
   k=k/sum(k(:));
   %%%%%%%%%%%%%%%%%%%%%%%%%%
-  if lambda_data~=0;
+  if lambda_data~=0
       lambda_data = max(lambda_data/1.1, 1e-4);
   else
       lambda_data = 0;
   end
   
-  if lambda_grad~=0;
+  if lambda_grad~=0
       lambda_grad = max(lambda_grad/1.1, 1e-4);
   else
       lambda_grad = 0;
   end
   %
-  figure(1); 
-  S(S<0) = 0;
-  S(S>1) = 1;
-  subplot(1,3,1); imshow(blur_B,[]); title('Blurred image');
-  subplot(1,3,2); imshow(S,[]);title('Interim latent image');
-  subplot(1,3,3); imshow(k,[]);title('Estimated kernel');
-  drawnow;
-end;
+  % figure(1); 
+  % S(S<0) = 0;
+  % S(S>1) = 1;
+  % subplot(1,3,1); imshow(blur_B,[]); title('Blurred image');
+  % subplot(1,3,2); imshow(S,[]);title('Interim latent image');
+  % subplot(1,3,3); imshow(k,[]);title('Estimated kernel');
+  % drawnow;
+end
 k(k<0) = 0;  
 k = k ./ sum(k(:));

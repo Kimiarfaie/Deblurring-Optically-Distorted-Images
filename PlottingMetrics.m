@@ -26,7 +26,7 @@ end
 % Outputs
 % Reference
 % folder = 'Optical Aberration Dataset/PMP/Kernelsize_10';
-folder = 'TID2013/PMP/Metrics/Kernelsize_10';
+folder = 'TID2013/ESM';
 
 
 % Preallocate array to store averages

@@ -29,7 +29,7 @@ lambda_tv = 0.002; %1e-3 in pmp
 lambda_l0 = 2e-4; %1e-3 in pmp
 %%
 % Loop over each image, process it, and save the output
-for i = numImages
+for i = 1:numImages-1
    for j = 1:numel(aberrationLevels)
         % Construct the filename
         filename = sprintf('i%02d_%s_%s.png', i, aberrationCode, aberrationLevels{j});
@@ -48,24 +48,31 @@ for i = numImages
         tic;
         [kernel, interim_latent] = blind_deconv(yg, lambda_data, lambda_grad, opts);
         toc
+
+        % Algorithm is done!
+
+        y = im2double(y);
+        % Final Deblur: 
+        if ~saturation
+            % 1. TV-L2 denoising method
+            Latent = deconv_outlier(y, kernel, 5/255, 0.003); % From cho code
+        %   Latent = deconv_RL_sat(y,kernel); % From whyte code
+        else
+            % 2. Whyte's deconvolution method (For saturated images)
+             Latent = ringing_artifacts_removal(y, kernel, lambda_tv, lambda_l0, 1); % From pan 2014
+        %    Latent = whyte_deconv(y, kernel);
+        end
+        %
+        k = kernel - min(kernel(:));
+        k = k./max(k(:));
+
+        % Construct the output filename including the kernel size
+        outputFilename = sprintf('%s_%d.png', filename(1:end-4), opts.kernel_size);
+        outputFile = fullfile(outputDir, outputFilename);
+
+        % Write the deblurred image to the output directory
+        imwrite(Latent, outputFile);
+        
    end
 end
-%% Algorithm is done!
-
-y = im2double(y);
-% Final Deblur: 
-if ~saturation
-    % 1. TV-L2 denoising method
-    Latent = deconv_outlier(y, kernel, 5/255, 0.003); % From cho code
-%   Latent = deconv_RL_sat(y,kernel); % From whyte code
-else
-    % 2. Whyte's deconvolution method (For saturated images)
-     Latent = ringing_artifacts_removal(y, kernel, lambda_tv, lambda_l0, 1); % From pan 2014
-%    Latent = whyte_deconv(y, kernel);
-end
-%
-k = kernel - min(kernel(:));
-k = k./max(k(:));
-imwrite(Latent,'enhance.png');
-imwrite(k,'enhance_kernel.png');
 

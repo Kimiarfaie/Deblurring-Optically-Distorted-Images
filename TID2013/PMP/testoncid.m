@@ -2,7 +2,7 @@ clear; close all; clc;
 
 addpath(genpath('cho_code'));
 inputDir = '/Users/kimiaarfaie/Desktop/Internship/Internship/Optical Aberration Dataset/Distorted Images';
-outputDir = '/Users/kimiaarfaie/Desktop/Internship/Optical Aberration Dataset/PMP/NewKernelSizes';
+outputDir = '/Users/kimiaarfaie/Desktop/Internship/Internship/Optical Aberration Dataset/PMP/NewKernelSizes';
 
 % CID
 distortions = struct();
@@ -12,7 +12,7 @@ distortions.Vertical_Astigmatism = {'0.5', '1', '1.5', '2'};
 numImages = 23;
 
 % kernel_sizes = [25, 35, 45, 55, 65];
-kernel_sizes = [110, 130, 150];
+kernel_sizes = 100;
 
 opts.prescale = 1; % downsampling
 opts.xk_iter = 5;  % the iterations
@@ -20,7 +20,7 @@ opts.k_thresh = 20;
 opts.gamma_correct = 1.0;
 
 % Loop over each image, process it, and save the output
-for i = 
+for i = 1:numImages
     % Loop over all distortion types
     distortionFields = fieldnames(distortions);
     for j = 1:numel(distortionFields)
@@ -31,8 +31,7 @@ for i =
         for l = 1:numel(levels)
             for k = 1:length(kernel_sizes)
                 % Construct the filename
-                filename = sprintf('i%02d_%s_%s.png', i, aberrationCode, aberrationLevels{j});
-                % filename = sprintf('final%02d_%s_%s.png', i, distortionType, levels{l});
+                filename = sprintf('final%02d_%s_%s.png', i, distortionType, levels{l});
                 % Full path to the image file
                 inputFile = fullfile(inputDir, filename);
                 % Read the image

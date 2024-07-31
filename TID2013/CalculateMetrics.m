@@ -4,7 +4,7 @@ close all; clear; clc;
 % Path to reference and deblurred images
 addpath(genpath('../Metrics'));
 reference_folder = 'Reference Images';
-deblurred_folder = 'PMP/Deblurred Images';
+deblurred_folder = 'PMP/Deblurred Images/NewKernelSizes';
 output_folder = 'PMP/Metrics/Kernelsize_65';
 
 % List of reference image names
@@ -26,7 +26,7 @@ CPBDValues = {};
 lpcValues = {};
 
 % Loop through each reference image
-for i = 1:numel(refImages)
+for i = [4,13,17,8]
     % Read the reference image
     refImgPath = fullfile(reference_folder, refImages{i});
     refImg = imread(refImgPath);
@@ -34,7 +34,7 @@ for i = 1:numel(refImages)
     % Loop over all levels of aberration
     for level = aberrationLevels
         % Construct the filename of the deblurred image
-        deblurredImgName = sprintf('%s_%s_%s_65.png', refImages{i}(1:end-4), aberrationCode, level{:});
+        deblurredImgName = sprintf('%s_%s_%s_110.png', refImages{i}(1:end-4), aberrationCode, level{:});
         deblurredImgPath = fullfile(deblurred_folder, deblurredImgName);
         deblurredImg = imread(deblurredImgPath);
 

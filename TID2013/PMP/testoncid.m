@@ -12,7 +12,7 @@ distortions.Vertical_Astigmatism = {'0.5', '1', '1.5', '2'};
 numImages = 23;
 
 % kernel_sizes = [25, 35, 45, 55, 65];
-kernel_sizes = 100;
+kernel_sizes = 10;
 
 opts.prescale = 1; % downsampling
 opts.xk_iter = 5;  % the iterations

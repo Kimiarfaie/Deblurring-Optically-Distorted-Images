@@ -5,7 +5,7 @@ close all; clear; clc;
 addpath(genpath('../Metrics'));
 reference_folder = 'Reference Images';
 deblurred_folder = 'PMP/NewKernelSizes';
-output_folder = 'PMP/Kernelsize_100';
+output_folder = 'PMP/Kernelsize_10';
 
 % List of reference image names
 refImages = arrayfun(@(x) sprintf('final%02d.png', x), 1:23, 'UniformOutput', false);
@@ -46,7 +46,7 @@ for i = 1:numel(refImages)
         % Loop over all levels for this distortion
         for k = 1:numel(levels)
             % Construct the filename of the deblurred image
-            deblurredImgName = sprintf('%s_%s_%s_100.png', refImages{i}(1:end-4), distortionType, levels{k});
+            deblurredImgName = sprintf('%s_%s_%s_10.png', refImages{i}(1:end-4), distortionType, levels{k});
             deblurredImgPath = fullfile(deblurred_folder, deblurredImgName);
             deblurredImg = imread(deblurredImgPath);
 

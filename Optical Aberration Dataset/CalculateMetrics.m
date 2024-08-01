@@ -4,8 +4,8 @@ close all; clear; clc;
 % Path to reference and deblurred images
 addpath(genpath('../Metrics'));
 reference_folder = 'Reference Images';
-deblurred_folder = 'PMP/NewKernelSizes';
-output_folder = 'PMP/Kernelsize_10';
+deblurred_folder = 'ESM/Deblurred Images';
+output_folder = 'ESM';
 
 % List of reference image names
 refImages = arrayfun(@(x) sprintf('final%02d.png', x), 1:23, 'UniformOutput', false);

@@ -29,7 +29,7 @@ lambda_tv = 0.002; %1e-3 in pmp
 lambda_l0 = 2e-4; %1e-3 in pmp
 %%
 % Loop over each image, process it, and save the output
-for i = 1:numImages-1
+for i = 1:numImages
    for j = 1:numel(aberrationLevels)
         % Construct the filename
         filename = sprintf('i%02d_%s_%s.png', i, aberrationCode, aberrationLevels{j});

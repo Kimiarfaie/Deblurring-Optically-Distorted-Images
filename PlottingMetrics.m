@@ -3,8 +3,8 @@
 close all; clear; clc;
 
 % Reference
-referencefolder = 'Optical Aberration Dataset/ReferenceVSBlurred';
-% referencefolder = 'TID2013/ReferenceVSBlurred';
+% referencefolder = 'Optical Aberration Dataset/ReferenceVSBlurred';
+referencefolder = 'TID2013/ReferenceVSBlurred';
 
 % List of file names and metric names
 files = {'rmseValues.mat', 'MSSIMValues.mat', 'lpcValues.mat', 'FSIMValues.mat', 'CPBDValues.mat', ...
@@ -25,8 +25,8 @@ end
 
 % Outputs
 % Reference
-folder = 'Optical Aberration Dataset/ESM/Kernelsize_10';
-% folder = 'TID2013/ESM';
+% folder = 'Optical Aberration Dataset/ESM/Kernelsize_10';
+folder = 'TID2013/deconvblind/Classic/Kernelsize_10';
 
 
 % Preallocate array to store averages

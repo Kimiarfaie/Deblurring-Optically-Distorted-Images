@@ -64,6 +64,8 @@ C=1:255;
 
 widthjnb = [5*ones(1,60) 3*ones(1,30) 3*ones(1,180)];
 
+temp = [];
+
 for i=1:floor(m/rb)
 
     for j=1:floor(n/rc)
@@ -91,8 +93,8 @@ metric = (L/(sum(temp.^beta).^(1/beta)));
 function [local] = edge_width(A)
 % Compute edge width based on following paper:
 % P. Marziliano, F. Dufaux, S. Winkler, and T. Ebrahimi, 
-% “Perceptual blur and ringing metrics: Applications to JPEG2000,” 
-% Signal Proc.: Image Comm., vol. 19, pp. 163–172, 2004.
+% ï¿½Perceptual blur and ringing metrics: Applications to JPEG2000,ï¿½ 
+% Signal Proc.: Image Comm., vol. 19, pp. 163ï¿½172, 2004.
 
 
 A = double(A);

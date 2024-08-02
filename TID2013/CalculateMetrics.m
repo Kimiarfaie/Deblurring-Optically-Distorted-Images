@@ -4,8 +4,8 @@ close all; clear; clc;
 % Path to reference and deblurred images
 addpath(genpath('../Metrics'));
 reference_folder = 'Reference Images';
-deblurred_folder = 'deconvblind/iteration 5/Deblurred Images';
-output_folder = 'deconvblind/iteration 5/Kernelsize_45';
+deblurred_folder = 'deconvblind/iteration10/Deblurred Images';
+output_folder = 'deconvblind/iteration10/Kernelsize_10';
 
 % List of reference image names
 refImages = arrayfun(@(x) sprintf('i%02d.png', x), 1:25, 'UniformOutput', false);
@@ -26,7 +26,7 @@ CPBDValues = {};
 lpcValues = {};
 
 % Loop through each reference image
-for i = [4,13,17,8]
+for i = 1:numel(refImages)
     % Read the reference image
     refImgPath = fullfile(reference_folder, refImages{i});
     refImg = imread(refImgPath);
@@ -34,7 +34,7 @@ for i = [4,13,17,8]
     % Loop over all levels of aberration
     for level = aberrationLevels
         % Construct the filename of the deblurred image
-        deblurredImgName = sprintf('%s_%s_%s_45.png', refImages{i}(1:end-4), aberrationCode, level{:});
+        deblurredImgName = sprintf('%s_%s_%s_10.png', refImages{i}(1:end-4), aberrationCode, level{:});
         deblurredImgPath = fullfile(deblurred_folder, deblurredImgName);
         deblurredImg = imread(deblurredImgPath);
 

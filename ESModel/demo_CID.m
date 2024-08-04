@@ -22,7 +22,7 @@ numImages = 23;
 %% Note:
 %% lambda_tv, lambda_l0, weight_ring are non-necessary, they are not used in kernel estimation.
 %%
-opts.kernel_size = 20;
+opts.kernel_size = 65;
 saturation = 0;
 lambda_data = 4e-3; % 0.1 in pmp
 lambda_grad = 4e-3; % same in pmp
@@ -31,7 +31,7 @@ lambda_tv = 0.002; %1e-3 in pmp
 lambda_l0 = 2e-4; %1e-3 in pmp
 %%
 % Loop over each image, process it, and save the output
-for i = 23
+for i = 1:numImages
     % Loop over all distortion types
     distortionFields = fieldnames(distortions);
     for j = 1:numel(distortionFields)

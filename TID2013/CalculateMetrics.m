@@ -4,8 +4,8 @@ close all; clear; clc;
 % Path to reference and deblurred images
 addpath(genpath('../Metrics'));
 reference_folder = 'Reference Images';
-deblurred_folder = 'deconvblind/iteration10/Deblurred Images';
-output_folder = 'deconvblind/iteration10/Kernelsize_10';
+deblurred_folder = 'deconvblind/iteration20/nodamp/Deblurred Images';
+output_folder = 'deconvblind/iteration20/nodamp/';
 
 % List of reference image names
 refImages = arrayfun(@(x) sprintf('i%02d.png', x), 1:25, 'UniformOutput', false);

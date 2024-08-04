@@ -26,7 +26,7 @@ end
 % Outputs
 % Reference
 % folder = 'Optical Aberration Dataset/ESM/Kernelsize_10';
-folder = 'TID2013/deconvblind/Classic/Kernelsize_10';
+folder = 'TID2013/deconvblind/iteration5plusdamp/damp0.6';
 
 
 % Preallocate array to store averages
